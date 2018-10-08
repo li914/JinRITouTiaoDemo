@@ -1,0 +1,12 @@
+#news_content{
+  text-indent: 2em;
+}
+#news_content .art_p{
+  text-indent: 2em;
+  padding: 3px;
+}
+#news_content img{
+  width: 92%;
+  display: block;
+  padding: 13px;
+}

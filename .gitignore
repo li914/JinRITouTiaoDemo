@@ -15,3 +15,4 @@ selenium-debug.log
 *.ntvs*
 *.njsproj
 *.sln
+将删除 src/components/
